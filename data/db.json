@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to SolaryCineTunes globe",
+      "author": "Solary",
+      "body": "🎉 Welcome to our brand new entertainment hub, where the magic of movies and the rhythm of music collide! Dive into a world of captivating stories, toe-tapping beats, and unforgettable moments. We're thrilled to have you join us on this journey of cinematic and musical delight. Explore, enjoy, and let the entertainment begin! 🍿🎶"
+    },
+    {
+      "author": "solary",
+      "title": "chrisbrown release new music",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a hendrerit dui. Vestibulum at eros et velit eleifend viverra dictum ut dui. Quisque tristique sagittis dui. Nam consequat turpis neque, nec feugiat neque mollis nec. Integer porttitor, arcu nec ultricies porttitor, massa augue pharetra erat, eget condimentum nulla mi sed nunc. Cras egestas libero varius ipsum faucibus condimentum. Fusce posuere lobortis nisl quis volutpat. Pellentesque consectetur nibh quis sem facilisis, ac congue nisi mattis. Integer nisl metus, condimentum nec sapien id, tristique sagittis neque. Aliquam in commodo est. Nullam a efficitur ante, vel accumsan augue. Pellentesque ornare, dolor ac scelerisque suscipit, nibh orci lacinia ex, vitae blandit odio justo id orci.\n\n",
+      "download": "https://tunezjam.com/download-mp3/26052/chris-brown-summer-too-hot",
+      "id": 2
+    }
+  ],
+  "musics": [
+    {
+      "id": 1,
+      "title": "foreign music welcome to SolaryTunes",
+      "author": "Solary",
+      "body": "🎉 Welcome to our brand new entertainment hub, where the magic of movies and the rhythm of music collide! Dive into a world of captivating stories, toe-tapping beats, and unforgettable moments. We're thrilled to have you join us on this journey of cinematic and musical delight. Explore, enjoy, and let the entertainment begin! 🍿🎶",
+      "downloadLink": "www.SolaryCineTunes.com"
+    },
+    {
+      "author": "solary",
+      "title": "Tekashi69 new music",
+      "body": "Morbi convallis tempor cursus. Nunc luctus, leo nec suscipit sodales, dui erat fermentum arcu, id suscipit ex odio id ligula. Integer in dictum nulla, in molestie nibh. Proin at suscipit eros. Fusce auctor malesuada pellentesque. Aliquam dapibus sodales lacus ac ullamcorper. Aenean a egestas risus, vel egestas ex. Donec odio orci, rutrum in mauris id, commodo sollicitudin diam. Etiam at mi sem. Sed iaculis varius justo sed sollicitudin. Curabitur in consequat nibh. Cras nec massa massa.",
+      "download": "https://tunezjam.com/download-mp3/26052/chris-brown-summer-too-hot",
+      "id": 2
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "welcome to SolaryCine",
+      "author": "Solary",
+      "body": "🎉 Welcome to our brand new entertainment hub, where the magic of movies and the rhythm of music collide! Dive into a world of captivating stories, toe-tapping beats, and unforgettable moments. We're thrilled to have you join us on this journey of cinematic and musical delight. Explore, enjoy, and let the entertainment begin! 🍿🎶",
+      "downloadLink": "www.SolaryCineTunes.com"
+    }
+  ],
+  "tvShows": [
+    {
+      "id": 1,
+      "title": "welcome to SolaryShow",
+      "author": "Solary",
+      "body": "🎉 Welcome to our brand new entertainment hub, where the magic of movies and the rhythm of music collide! Dive into a world of captivating stories, toe-tapping beats, and unforgettable moments. We're thrilled to have you join us on this journey of cinematic and musical delight. Explore, enjoy, and let the entertainment begin! 🍿🎶",
+      "downloadLink": "www.SolaryCineTunes.com"
+    }
+  ],
+  "entertainmentNews": [
+    {
+      "id": 1,
+      "title": "welcome to Entertainment",
+      "author": "Solary",
+      "body": "🎉 Welcome to our brand new entertainment hub, where the magic of movies and the rhythm of music collide! Dive into a world of captivating stories, toe-tapping beats, and unforgettable moments. We're thrilled to have you join us on this journey of cinematic and musical delight. Explore, enjoy, and let the entertainment begin! 🍿🎶",
+      "downloadLink": "www.SolaryCineTunes.com"
+    },
+    {
+      "author": "solary",
+      "title": "shi shi",
+      "body": "Mauris ac auctor ipsum. Suspendisse quam quam, lacinia et venenatis ac, mattis ac ante. Proin quis tincidunt nisi. Vestibulum ultricies velit ac elit congue laoreet. In hac habitasse platea dictumst. Curabitur tempus, risus a elementum cursus, lacus neque porta eros, at lacinia nunc ex ut mauris. Ut quis lectus fringilla, congue libero eu, vulputate dui. Praesent nisi metus, mollis quis sollicitudin eu, porttitor viverra purus. Ut tincidunt ante ut lacus interdum, vel dapibus lectus dapibus. Proin eu mattis velit. Integer ornare vel leo et semper. Donec elit nunc, commodo id dignissim ut, elementum non lectus. Nulla quis pulvinar odio, nec blandit risus.",
+      "download": "",
+      "id": 2
+    },
+    {
+      "author": "solary",
+      "title": "bubbubu",
+      "body": "Mauris ac auctor ipsum. Suspendisse quam quam, lacinia et venenatis ac, mattis ac ante. Proin quis tincidunt nisi. Vestibulum ultricies velit ac elit congue laoreet. In hac habitasse platea dictumst. Curabitur tempus, risus a elementum cursus, lacus neque porta eros, at lacinia nunc ex ut mauris. Ut quis lectus fringilla, congue libero eu, vulputate dui. Praesent nisi metus, mollis quis sollicitudin eu, porttitor viverra purus. Ut tincidunt ante ut lacus interdum, vel dapibus lectus dapibus. Proin eu mattis velit. Integer ornare vel leo et semper. Donec elit nunc, commodo id dignissim ut, elementum non lectus. Nulla quis pulvinar odio, nec blandit risus.",
+      "download": "https://www.lipsum.com/feed/html",
+      "id": 3
+    }
+  ]
+}
